@@ -20,7 +20,7 @@ msgstr ""
 #: resources/xml/reports/ahnentafel_report.xml:334
 #: resources/xml/reports/ahnentafel_report.xml:359
 msgid " but the details are unknown"
-msgstr ""
+msgstr "그러나 세부 사항은 알 수 없습니다"
 
 #: resources/xml/reports/ahnentafel_report.xml:159
 #: resources/xml/reports/ahnentafel_report.xml:187
@@ -37,7 +37,7 @@ msgstr ""
 #: resources/xml/reports/descendancy_report.xml:423
 #: resources/xml/reports/descendancy_report.xml:454
 msgid " in "
-msgstr ""
+msgstr " in "
 
 #. I18N: Abbreviation for "number %s"
 #: app/Functions/FunctionsPrintFacts.php:192
@@ -49,19 +49,19 @@ msgstr ""
 #: app/Http/Controllers/AdminTreesController.php:1544
 #, php-format
 msgid "%1$s %2$s has a %3$s link to %4$s."
-msgstr ""
+msgstr "%1$s %2$s에 %4$s에 대한 %3$s 링크가 있습니다."
 
 #. I18N: %1$s=“fifth cousin”, etc., %2$s>=4
 #: app/Functions/Functions.php:2358
 #, php-format
 msgid "%1$s %2$s times removed ascending"
-msgstr ""
+msgstr ""%1$s %2$s 번 오름차순 제거"
 
 #. I18N: %1$s=“fifth cousin”, etc., %2$s>=4
 #: app/Functions/Functions.php:2362
 #, php-format
 msgid "%1$s %2$s times removed descending"
-msgstr ""
+msgstr "%1$s %2$s 내림차순 제거"
 
 #: app/Functions/FunctionsPrintLists.php:70
 #: app/Http/RequestHandlers/IndividualPage.php:234
@@ -72,44 +72,44 @@ msgstr ""
 #: app/Http/Controllers/Admin/UpgradeController.php:333
 #, php-format
 msgid "%1$s KB were downloaded in %2$s seconds."
-msgstr ""
+msgstr "%1$s KB가 %2$s 초 안에 다운로드되었습니다."
 
 #: app/Http/Controllers/Admin/UsersController.php:339
 #, php-format
 msgid "%1$s does not exist"
-msgstr ""
+msgstr "%1$s 존재하지 않습니다."
 
 #. I18N: placeholders are GEDCOM XREFs, such as R123
 #: app/Http/Controllers/Admin/UsersController.php:236
 #: app/Http/Controllers/AdminTreesController.php:278
 #, php-format
 msgid "%1$s does not exist."
-msgstr ""
+msgstr "%1$s 존재하지 않습니다."
 
 #. I18N: placeholders are GEDCOM XREFs, such as R123
 #: app/Http/Controllers/AdminTreesController.php:275
 #, php-format
 msgid "%1$s does not exist. Did you mean %2$s?"
-msgstr ""
+msgstr "%1$s 존재하지 않습니다.%2$s? 를 의미 했습니까? "
 
 #. I18N: %1$s and %2$s are internal ID numbers such as R123
 #: app/Http/Controllers/AdminTreesController.php:308
 #, php-format
 msgid "%1$s does not have a link back to %2$s."
-msgstr ""
+msgstr "%1$s 에 %2$s 에 대한 링크가 없습니다. "
 
 #. I18N: …from the .ZIP file, %2$s is a (fractional) number of seconds
 #: app/Http/Controllers/Admin/UpgradeController.php:354
 #, php-format
 msgid "%1$s file was extracted in %2$s seconds."
 msgid_plural "%1$s files were extracted in %2$s seconds."
-msgstr[0] ""
+msgstr[0] "%1$s 파일이 %2$s 초 만에 압축이 풀렸습니다."
 
 #. I18N: %1$s is an internal ID number such as R123. %2$s and %3$s are record types, such as INDI or SOUR
 #: app/Http/Controllers/AdminTreesController.php:299
 #, php-format
 msgid "%1$s is a %2$s but a %3$s is expected."
-msgstr ""
+msgstr "%1$s 은(는) %2$s 이지만 %3$s 이(가) 예상됩니다."
 
 #. I18N: A Spanish relationship name, such as third great-nephew
 #: app/Functions/Functions.php:572
@@ -120,14 +120,14 @@ msgstr ""
 #. I18N: A Spanish relationship name, such as third great-nephew
 #: app/Functions/Functions.php:550
 #, php-format
-msgctxt "FEMALE"
+msgctxt "여성"
 msgid "%1$s × %2$s"
 msgstr ""
 
 #. I18N: A Spanish relationship name, such as third great-nephew
 #: app/Functions/Functions.php:527
 #, php-format
-msgctxt "MALE"
+msgctxt "남성"
 msgid "%1$s × %2$s"
 msgstr ""
 
@@ -173,35 +173,35 @@ msgstr ""
 #: app/Module/ClippingsCartModule.php:605
 #, php-format
 msgid "%s and her ancestors"
-msgstr ""
+msgstr "%s와 그녀의 조상"
 
 #: app/Module/ClippingsCartModule.php:615
 #, php-format
 msgid "%s and his ancestors"
-msgstr ""
+msgstr "%s와 그의 조상"
 
 #: app/Module/ClippingsCartModule.php:954
 #, php-format
 msgid "%s and the individuals that reference it."
-msgstr ""
+msgstr "%s 및 이를 참조하는 개인"
 
 #. I18N: %s is a family (husband + wife)
 #: app/Module/ClippingsCartModule.php:465
 #, php-format
 msgid "%s and their children"
-msgstr ""
+msgstr "%s 와 자녀"
 
 #. I18N: %s is a family (husband + wife)
 #: app/Module/ClippingsCartModule.php:467
 #, php-format
 msgid "%s and their descendants"
-msgstr ""
+msgstr "%s 와 자손"
 
 #: app/Statistics/Repository/UserRepository.php:88
 #, php-format
 msgid "%s anonymous signed-in user"
 msgid_plural "%s anonymous signed-in users"
-msgstr[0] ""
+msgstr[0] "%s 익명 로그인 사용자"
 
 #: resources/views/family-page-children.phtml:13
 #: resources/views/modules/ancestors-chart/tree.phtml:39
@@ -211,7 +211,7 @@ msgstr[0] ""
 #, php-format
 msgid "%s child"
 msgid_plural "%s children"
-msgstr[0] ""
+msgstr[0] "%s 명의 자녀"
 
 #. I18N: Part of an age string. e.g. 5 years, 4 months and 3 days
 #: app/Age.php:151 app/Functions/FunctionsDate.php:62
