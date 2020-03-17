@@ -2464,42 +2464,42 @@ msgstr "손자의 침례
 
 #: app/GedcomTag.php:1245
 msgid "Baptism of a half-brother"
-msgstr ""
+msgstr "Baptism of a half-brother"
 
 #: app/GedcomTag.php:1252
 msgid "Baptism of a half-sibling"
-msgstr ""
+msgstr "Baptism of a half-sibling"
 
 #: app/GedcomTag.php:1249
 msgid "Baptism of a half-sister"
-msgstr ""
+msgstr "Baptism of a half-sister"
 
 #: app/GedcomTag.php:1263
 msgid "Baptism of a sibling"
-msgstr ""
+msgstr "형제의 침례"
 
 #: app/GedcomTag.php:1260
 msgid "Baptism of a sister"
-msgstr ""
+msgstr "여자형제의 침례"
 
 #: app/GedcomTag.php:1201
 msgid "Baptism of a son"
-msgstr ""
+msgstr "아들의 침례"
 
 #. I18N: gedcom tag BARM
 #: app/GedcomTag.php:517 resources/xml/reports/missing_facts_report.xml:17
 msgid "Bar mitzvah"
-msgstr ""
+msgstr "Bar mitzvah"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:106
 msgid "Barbados"
-msgstr ""
+msgstr "Barbados"
 
 #. I18N: gedcom tag BASM
 #: app/GedcomTag.php:524 resources/xml/reports/missing_facts_report.xml:18
 msgid "Bat mitzvah"
-msgstr ""
+msgstr "Bat mitzvah"
 
 #: resources/views/modules/batch_update/admin.phtml:25
 msgid "Batch update"
@@ -2508,21 +2508,21 @@ msgstr ""
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:285
 msgid "Baton Rouge, Louisiana, United States"
-msgstr ""
+msgstr "Baton Rouge, Louisiana, United States"
 
 #: app/Http/RequestHandlers/SearchAdvancedPage.php:226
 msgid "Begins with"
-msgstr ""
+msgstr "로 시작"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:96
 msgid "Belarus"
-msgstr ""
+msgstr "Belarus"
 
 #. I18N: The name of a colour-scheme
 #: app/Module/ColorsTheme.php:157
 msgid "Belgian Chocolate"
-msgstr ""
+msgstr "Belgian Chocolate"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:78
@@ -2532,55 +2532,55 @@ msgstr ""
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:98
 msgid "Belize"
-msgstr ""
+msgstr "Belize"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:80
 msgid "Benin"
-msgstr ""
+msgstr "Benin"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:100
 msgid "Bermuda"
-msgstr ""
+msgstr "Bermuda"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:639
 msgid "Bern, Switzerland"
-msgstr ""
+msgstr "Bern, Switzerland"
 
 #: app/GedcomCode/GedcomCodeRela.php:111
 msgid "Best man"
-msgstr ""
+msgstr "신랑 들러리"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:110
 msgid "Bhutan"
-msgstr ""
+msgstr "Bhutan"
 
 #. I18N: gedcom tag _BIBL
 #: app/GedcomTag.php:1267
 msgid "Bibliography"
-msgstr ""
+msgstr "서지"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:258
 msgid "Billings, Montana, United States"
-msgstr ""
+msgstr "Billings, Montana, United States"
 
 #. I18N: gedcom tag BLOB
 #: app/GedcomTag.php:545
 msgid "Binary data object"
-msgstr ""
+msgstr "바이너리 데이터 객체"
 
 #: app/Functions/FunctionsPrint.php:362 app/Functions/FunctionsPrint.php:364
 msgid "Bing Maps™"
-msgstr ""
+msgstr "Bing Maps™"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:261
 msgid "Birmingham, Alabama, United States"
-msgstr ""
+msgstr "Birmingham, Alabama, United States"
 
 #. I18N: gedcom tag BIRT
 #: app/GedcomTag.php:531 resources/views/calendar-page.phtml:158
@@ -2708,31 +2708,31 @@ msgstr ""
 #: resources/xml/reports/pedigree_report.xml:1379
 #: resources/xml/reports/relative_ext_report.xml:56
 msgid "Birth"
-msgstr ""
+msgstr "출생"
 
 #: app/GedcomCode/GedcomCodePedi.php:63
 msgctxt "Female pedigree"
 msgid "Birth"
-msgstr ""
+msgstr "출생"
 
 #: app/GedcomCode/GedcomCodePedi.php:59
 msgctxt "Male pedigree"
 msgid "Birth"
-msgstr ""
+msgstr "출생"
 
 #: app/GedcomCode/GedcomCodePedi.php:66
 msgctxt "Pedigree"
 msgid "Birth"
-msgstr ""
+msgstr "출생"
 
 #: app/Statistics/Google/ChartDistribution.php:338
 msgid "Birth by country"
-msgstr ""
+msgstr "출생한 나라"
 
 #: resources/xml/reports/bdm_report.xml:8
 #: resources/xml/reports/birth_report.xml:8
 msgid "Birth date range end"
-msgstr ""
+msgstr "생년월일 종료"
 
 #: resources/xml/reports/bdm_report.xml:7
 #: resources/xml/reports/birth_report.xml:7
@@ -2741,80 +2741,80 @@ msgstr ""
 
 #: app/GedcomTag.php:1326
 msgid "Birth of a brother"
-msgstr ""
+msgstr "남자형제의 생일"
 
 #: app/GedcomTag.php:1278 resources/views/admin/trees-preferences.phtml:442
 msgid "Birth of a child"
-msgstr ""
+msgstr "아이의 생일"
 
 #: app/GedcomTag.php:1275
 msgid "Birth of a daughter"
-msgstr ""
+msgstr "딸의 생일"
 
 #: app/GedcomTag.php:1289 app/GedcomTag.php:1300 app/GedcomTag.php:1311
 #: resources/views/admin/trees-preferences.phtml:436
 msgid "Birth of a grandchild"
-msgstr ""
+msgstr "손주의 생일"
 
 #: app/GedcomTag.php:1286
 msgid "Birth of a granddaughter"
-msgstr ""
+msgstr "손녀의 생일"
 
 #: app/GedcomTag.php:1297
 msgctxt "daughter’s daughter"
 msgid "Birth of a granddaughter"
-msgstr ""
+msgstr "손녀의 생일"
 
 #: app/GedcomTag.php:1308
 msgctxt "son’s daughter"
 msgid "Birth of a granddaughter"
-msgstr ""
+msgstr "손자의 생일"
 
 #: app/GedcomTag.php:1282
 msgid "Birth of a grandson"
-msgstr ""
+msgstr "손자의 생일"
 
 #: app/GedcomTag.php:1293
 msgctxt "daughter’s son"
 msgid "Birth of a grandson"
-msgstr ""
+msgstr "손자의 생일"
 
 #: app/GedcomTag.php:1304
 msgctxt "son’s son"
 msgid "Birth of a grandson"
-msgstr ""
+msgstr "손자의 생일"
 
 #: app/GedcomTag.php:1315
 msgid "Birth of a half-brother"
-msgstr ""
+msgstr "half-brother의 생일"
 
 #: app/GedcomTag.php:1322
 msgid "Birth of a half-sibling"
-msgstr ""
+msgstr "half-sibling의 생일"
 
 #: app/GedcomTag.php:1319
 msgid "Birth of a half-sister"
-msgstr ""
+msgstr "half-sister의 생일"
 
 #: app/GedcomTag.php:1333 resources/views/admin/trees-preferences.phtml:448
 msgid "Birth of a sibling"
-msgstr ""
+msgstr "형제의 생일"
 
 #: app/GedcomTag.php:1330
 msgid "Birth of a sister"
-msgstr ""
+msgstr "여자형제의 생일"
 
 #: app/GedcomTag.php:1271
 msgid "Birth of a son"
-msgstr ""
+msgstr "아들의 생일"
 
 #: resources/views/statistics/other/places.phtml:21
 msgid "Birth places"
-msgstr ""
+msgstr "출생장소"
 
 #: resources/xml/reports/birth_report.xml:6
 msgid "Birthplace contains"
-msgstr ""
+msgstr "출생지 포함"
 
 #. I18N: Name of a module/report
 #: app/Module/BirthReportModule.php:40
@@ -2827,7 +2827,7 @@ msgstr "출생"
 #: app/Statistics/Google/ChartBirth.php:123
 #: resources/views/statistics/individuals/total-events.phtml:31
 msgid "Births by century"
-msgstr ""
+msgstr "세기 별 출생"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:264
