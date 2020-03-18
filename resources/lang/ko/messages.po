@@ -2832,128 +2832,128 @@ msgstr "세기 별 출생"
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:264
 msgid "Bismarck, North Dakota, United States"
-msgstr ""
+msgstr "Bismarck, North Dakota, United States"
 
 #. I18N: gedcom tag BLES
 #: app/GedcomTag.php:538
 msgid "Blessing"
-msgstr ""
+msgstr "축복"
 
 #: resources/views/edit-blocks-block.phtml:16
 msgid "Block"
-msgstr ""
+msgstr "블록"
 
 #: app/Http/Controllers/Admin/ModuleController.php:114
 #: resources/views/admin/control-panel.phtml:514
 #: resources/views/admin/modules.phtml:79
 #: resources/views/admin/modules.phtml:81
 msgid "Blocks"
-msgstr ""
+msgstr "블록"
 
 #. I18N: The name of a colour-scheme
 #: app/Module/ColorsTheme.php:159
 msgid "Blue Lagoon"
-msgstr ""
+msgstr "Blue Lagoon"
 
 #. I18N: The name of a colour-scheme
 #: app/Module/ColorsTheme.php:161
 msgid "Blue Marine"
-msgstr ""
+msgstr "Blue Marine"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:267
 msgid "Bogota, Colombia"
-msgstr ""
+msgstr "Bogota, Colombia"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:270
 msgid "Boise, Idaho, United States"
-msgstr ""
+msgstr "Boise, Idaho, United States"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:102
 msgid "Bolivia"
-msgstr ""
+msgstr "Bolivia"
 
 #. I18N: Type of media object
 #: app/GedcomTag.php:2363
 msgid "Book"
-msgstr ""
+msgstr "Book"
 
 #. I18N: LDS sealing status; see http://en.wikipedia.org/wiki/Sealing_(Latter_Day_Saints)
 #: app/GedcomCode/GedcomCodeStat.php:105
 msgid "Born in the covenant"
-msgstr ""
+msgstr "Born in the covenant"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:93
 msgid "Bosnia and Herzegovina"
-msgstr ""
+msgstr "Bosnia and Herzegovina"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:273
 msgid "Boston, Massachusetts, United States"
-msgstr ""
+msgstr "Boston, Massachusetts, United States"
 
 #: resources/views/lists/families-table.phtml:157
 msgid "Both alive"
-msgstr ""
+msgstr "함께 살다"
 
 #: resources/views/lists/families-table.phtml:181
 msgid "Both dead"
-msgstr ""
+msgstr "함께 죽다"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:114
 msgid "Botswana"
-msgstr ""
+msgstr "Botswana"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:276
 msgid "Bountiful, Utah, United States"
-msgstr ""
+msgstr "Bountiful, Utah, United States"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:112
 msgid "Bouvet Island"
-msgstr ""
+msgstr "Bouvet Island"
 
 #. I18N: Branches of a family tree
 #. I18N: Name of a module/list
 #: app/Http/Controllers/BranchesController.php:87
 #: app/Module/BranchesListModule.php:49
 msgid "Branches"
-msgstr ""
+msgstr "분기점"
 
 #. I18N: %s is a surname
 #: app/Http/Controllers/BranchesController.php:84
 #, php-format
 msgid "Branches of the %s family"
-msgstr ""
+msgstr "%s 가족의 분기점"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:104
 msgid "Brazil"
-msgstr ""
+msgstr "Brazil"
 
 #: app/GedcomCode/GedcomCodeRela.php:115
 msgid "Bridesmaid"
-msgstr ""
+msgstr "신부 들러리"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:279
 msgid "Brigham City, Utah, United States"
-msgstr ""
+msgstr "Brigham City, Utah, United States"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:282
 msgid "Brisbane, Australia"
-msgstr ""
+msgstr "Brisbane, Australia"
 
 #. I18N: gedcom tag _BRTM
 #: app/GedcomTag.php:1337
 msgid "Brit milah"
-msgstr ""
+msgstr Brit milah""
 
 #: app/GedcomTag.php:2094
 msgid "Brit milah of a brother"
@@ -2966,59 +2966,59 @@ msgstr ""
 #: app/GedcomTag.php:2088
 msgctxt "daughter’s son"
 msgid "Brit milah of a grandson"
-msgstr ""
+msgstr ""Brit milah of a grandson"
 
 #: app/GedcomTag.php:2090
 msgctxt "son’s son"
 msgid "Brit milah of a grandson"
-msgstr ""
+msgstr "Brit milah of a grandson"
 
 #: app/GedcomTag.php:2092
 msgid "Brit milah of a half-brother"
-msgstr ""
+msgstr "Brit milah of a half-brother"
 
 #: app/GedcomTag.php:2083
 msgid "Brit milah of a son"
-msgstr ""
+msgstr "Brit milah of a son"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:253
 msgid "British Indian Ocean Territory"
-msgstr ""
+msgstr "British Indian Ocean Territory"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:524
 msgid "British Virgin Islands"
-msgstr ""
+msgstr "British Virgin Islands"
 
 #: resources/xml/reports/individual_ext_report.xml:319
 #: resources/xml/reports/individual_report.xml:316
 msgid "Brother"
-msgstr ""
+msgstr "남자형제"
 
 #. I18N: a month in the French republican calendar
 #: app/Date/FrenchDate.php:137
 msgctxt "GENITIVE"
 msgid "Brumaire"
-msgstr ""
+msgstr "Brumaire"
 
 #. I18N: a month in the French republican calendar
 #: app/Date/FrenchDate.php:231
 msgctxt "INSTRUMENTAL"
 msgid "Brumaire"
-msgstr ""
+msgstr "Brumaire"
 
 #. I18N: a month in the French republican calendar
 #: app/Date/FrenchDate.php:184
 msgctxt "LOCATIVE"
 msgid "Brumaire"
-msgstr ""
+msgstr "Brumaire"
 
 #. I18N: a month in the French republican calendar
 #: app/Date/FrenchDate.php:89
 msgctxt "NOMINATIVE"
 msgid "Brumaire"
-msgstr ""
+msgstr "Brumaire"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:108
@@ -3028,12 +3028,12 @@ msgstr ""
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:255
 msgid "Buenos Aires, Argentina"
-msgstr ""
+msgstr "Buenos Aires, Argentina"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:87
 msgid "Bulgaria"
-msgstr ""
+msgstr "Bulgaria"
 
 #. I18N: gedcom tag BURI
 #: app/GedcomTag.php:548 resources/views/calendar-page.phtml:173
@@ -3042,213 +3042,213 @@ msgstr ""
 #: resources/xml/reports/family_group_report.xml:1049
 #: resources/xml/reports/missing_facts_report.xml:25
 msgid "Burial"
-msgstr ""
+msgstr "매장"
 
 #: app/GedcomTag.php:1443
 msgid "Burial of a brother"
-msgstr ""
+msgstr "매장한 남자형제"
 
 #: app/GedcomTag.php:1351
 msgid "Burial of a child"
-msgstr ""
+msgstr "매장한 아이"
 
 #: app/GedcomTag.php:1348
 msgid "Burial of a daughter"
-msgstr ""
+msgstr "매장한 딸"
 
 #: app/GedcomTag.php:1432
 msgid "Burial of a father"
-msgstr ""
+msgstr "매장한 아버지"
 
 #: app/GedcomTag.php:1362 app/GedcomTag.php:1373 app/GedcomTag.php:1384
 msgid "Burial of a grandchild"
-msgstr ""
+msgstr "매장한 손주"
 
 #: app/GedcomTag.php:1359
 msgid "Burial of a granddaughter"
-msgstr ""
+msgstr "매장한 손녀"
 
 #: app/GedcomTag.php:1370
 msgctxt "daughter’s daughter"
 msgid "Burial of a granddaughter"
-msgstr ""
+msgstr "매장한 손녀"
 
 #: app/GedcomTag.php:1381
 msgctxt "son’s daughter"
 msgid "Burial of a granddaughter"
-msgstr ""
+msgstr "매장한 손녀"
 
 #: app/GedcomTag.php:1388
 msgid "Burial of a grandfather"
-msgstr ""
+msgstr "매장한 조부"
 
 #: app/GedcomTag.php:1392
 msgid "Burial of a grandmother"
-msgstr ""
+msgstr "매장한 조모"
 
 #: app/GedcomTag.php:1395
 msgid "Burial of a grandparent"
-msgstr ""
+msgstr "매장한 조부모"
 
 #: app/GedcomTag.php:1355
 msgid "Burial of a grandson"
-msgstr ""
+msgstr "매장한 손자"
 
 #: app/GedcomTag.php:1366
 msgctxt "daughter’s son"
 msgid "Burial of a grandson"
-msgstr ""
+msgstr "매장한 손자"
 
 #: app/GedcomTag.php:1377
 msgctxt "son’s son"
 msgid "Burial of a grandson"
-msgstr ""
+msgstr "매장한 손자"
 
 #: app/GedcomTag.php:1421
 msgid "Burial of a half-brother"
-msgstr ""
+msgstr "매장한 half-brother"
 
 #: app/GedcomTag.php:1428
 msgid "Burial of a half-sibling"
-msgstr ""
+msgstr "매장한 half-sibling"
 
 #: app/GedcomTag.php:1425
 msgid "Burial of a half-sister"
-msgstr ""
+msgstr "매장한 half-sister"
 
 #: app/GedcomTag.php:1454
 msgid "Burial of a husband"
-msgstr ""
+msgstr "매장한 남편"
 
 #: app/GedcomTag.php:1410
 msgid "Burial of a maternal grandfather"
-msgstr ""
+msgstr "매장한 외조부"
 
 #: app/GedcomTag.php:1414
 msgid "Burial of a maternal grandmother"
-msgstr ""
+msgstr "매장한 외조모"
 
 #: app/GedcomTag.php:1417
 msgid "Burial of a maternal grandparent"
-msgstr ""
+msgstr "매장한 외조부모"
 
 #: app/GedcomTag.php:1436
 msgid "Burial of a mother"
-msgstr ""
+msgstr "매장한 어머니"
 
 #: app/GedcomTag.php:1439
 msgid "Burial of a parent"
-msgstr ""
+msgstr "매장한 부모"
 
 #: app/GedcomTag.php:1399
 msgid "Burial of a paternal grandfather"
-msgstr ""
+msgstr "매장한 조부"
 
 #: app/GedcomTag.php:1403
 msgid "Burial of a paternal grandmother"
-msgstr ""
+msgstr "매장한 조모"
 
 #: app/GedcomTag.php:1406
 msgid "Burial of a paternal grandparent"
-msgstr ""
+msgstr "매장한 조부모"
 
 #: app/GedcomTag.php:1450
 msgid "Burial of a sibling"
-msgstr ""
+msgstr "매장한 sibling"
 
 #: app/GedcomTag.php:1447
 msgid "Burial of a sister"
-msgstr ""
+msgstr "매장한 여자형제"
 
 #: app/GedcomTag.php:1344
 msgid "Burial of a son"
-msgstr ""
+msgstr "매장한 아들"
 
 #: app/GedcomTag.php:1461
 msgid "Burial of a spouse"
-msgstr ""
+msgstr "매장한 배우자"
 
 #: app/GedcomTag.php:1458
 msgid "Burial of a wife"
-msgstr ""
+msgstr "매장한 부인"
 
 #: resources/xml/reports/cemetery_report.xml:5
 msgid "Burial place contains"
-msgstr ""
+msgstr "매장 장소 포함"
 
 #. I18N: Name of a module/report
 #: app/Module/CemeteryReportModule.php:40
 #: resources/xml/reports/cemetery_report.xml:3
 #: resources/xml/reports/cemetery_report.xml:34
 msgid "Burials"
-msgstr ""
+msgstr "매장"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:83
 msgid "Burkina Faso"
-msgstr ""
+msgstr "Burkina Faso"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:76
 msgid "Burundi"
-msgstr ""
+msgstr "Burundi"
 
 #: app/GedcomCode/GedcomCodeRela.php:126
 msgid "Buyer"
-msgstr ""
+msgstr "구매자"
 
 #: app/GedcomCode/GedcomCodeRela.php:123
 msgctxt "FEMALE"
 msgid "Buyer"
-msgstr ""
+msgstr "구매자"
 
 #: app/GedcomCode/GedcomCodeRela.php:119
 msgctxt "MALE"
 msgid "Buyer"
-msgstr ""
+msgstr "구매자"
 
 #. I18N: Help text for the "Port number" site configuration setting
 #: resources/views/admin/site-mail.phtml:117
 msgid "By default, SMTP works on port 25."
-msgstr ""
+msgstr "기본적으로 SMTP는 포트 25에서 작동합니다."
 
 #. I18N: Name of a module. CKEditor is a trademark. Do not translate it? http://ckeditor.com
 #: app/Module/CkeditorModule.php:43
 msgid "CKEditor™"
-msgstr ""
+msgstr "CKEditor™"
 
 #. I18N: Name of a module.
 #: app/Module/CustomCssJsModule.php:82
 msgid "CSS and JS"
-msgstr ""
+msgstr "CSS and JS"
 
 #: resources/views/admin/trees.phtml:55
 #: resources/views/lists/datatables-attributes.phtml:32
 msgid "Calculating…"
-msgstr ""
+msgstr "계산중..."
 
 #. I18N: Name of a module
 #: app/Module/CalendarMenuModule.php:41 app/Module/CalendarMenuModule.php:80
 #: resources/views/modules/yahrzeit/config.phtml:30
 msgid "Calendar"
-msgstr ""
+msgstr "캘린더"
 
 #. I18N: A configuration setting
 #: resources/views/admin/trees-preferences.phtml:98
 #: resources/views/admin/trees-preferences.phtml:100
 #: resources/views/admin/trees-preferences.phtml:103
 msgid "Calendar conversion"
-msgstr ""
+msgstr "캘린더 변환"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:288
 msgid "Calgary, Alberta, Canada"
-msgstr ""
+msgstr "Calgary, Alberta, Canada"
 
 #. I18N: gedcom tag CALN
 #: app/GedcomTag.php:555 resources/views/modals/source-fields.phtml:45
 msgid "Call number"
-msgstr ""
+msgstr "전화번호"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:280
@@ -3258,12 +3258,12 @@ msgstr ""
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:130
 msgid "Cameroon"
-msgstr ""
+msgstr "Cambodia"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:291
 msgid "Campinas, Brazil"
-msgstr ""
+msgstr "Campinas, Brazil"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:118
@@ -3273,96 +3273,96 @@ msgstr ""
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:142
 msgid "Cape Verde"
-msgstr ""
+msgstr "Cape Verde"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:294
 msgid "Caracas, Venezuela"
-msgstr ""
+msgstr "Caracas, Venezuela"
 
 #. I18N: Type of media object
 #: app/GedcomTag.php:2366
 msgid "Card"
-msgstr ""
+msgstr "Card"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:234
 msgid "Cardston, Alberta, Canada"
-msgstr ""
+msgstr ""Cardston, Alberta, Canada"
 
 #: resources/views/modules/fix-search-and-replace/options.phtml:48
 msgid "Case insensitive"
-msgstr ""
+msgstr "대소문자 구분"
 
 #. I18N: gedcom tag CAST
 #: app/GedcomTag.php:558
 msgid "Caste"
-msgstr ""
+msgstr "카스트"
 
 #: resources/views/modules/statistics-chart/custom.phtml:71
 msgid "Categories"
-msgstr ""
+msgstr "Categories"
 
 #. I18N: gedcom tag CAUS
 #: app/GedcomTag.php:561
 msgid "Cause"
-msgstr ""
+msgstr "원인"
 
 #: app/GedcomTag.php:656
 msgid "Cause of death"
-msgstr ""
+msgstr "사망원인"
 
 #: resources/views/modals/media-file-fields.phtml:96
 msgid "Caution!"
-msgstr ""
+msgstr "주의!"
 
 #: resources/views/admin/trees-renumber.phtml:37
 #: resources/views/admin/trees.phtml:308
 msgid "Caution! This may take a long time. Be patient."
-msgstr ""
+msgstr "주의! 시간이 오래 걸릴 수 있습니다. 인내심을 가지십시오."
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:151
 msgid "Cayman Islands"
-msgstr ""
+msgstr "Cayman Islands"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:297
 msgid "Cebu City, Philippines"
-msgstr ""
+msgstr "Cebu City, Philippines"
 
 #. I18N: gedcom tag CEME
 #: app/GedcomTag.php:564
 msgid "Cemetery"
-msgstr ""
+msgstr "묘지"
 
 #. I18N: gedcom tag CENS
 #: app/GedcomTag.php:567
 msgid "Census"
-msgstr ""
+msgstr "인구조사"
 
 #. I18N: Name of a module
 #: app/Module/CensusAssistantModule.php:46
 msgid "Census assistant"
-msgstr ""
+msgstr "인구조사 보조"
 
 #: app/GedcomTag.php:569
 #: resources/views/modules/GEDFact_assistant/select-census.phtml:19
 msgid "Census date"
-msgstr ""
+msgstr "인구조사 날짜"
 
 #: app/GedcomTag.php:571
 msgid "Census place"
-msgstr ""
+msgstr "인구조사 장소"
 
 #: resources/views/modules/census-assistant.phtml:111
 msgid "Census transcript"
-msgstr ""
+msgstr "안구조사 사본"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:116
 msgid "Central African Republic"
-msgstr ""
+msgstr "Central African Republic"
 
 #: app/Module/StatisticsChartModule.php:998
 #: app/Statistics/Google/ChartAge.php:109
@@ -3384,42 +3384,42 @@ msgstr ""
 #: resources/views/lists/individuals-table.phtml:118
 #: resources/views/lists/individuals-table.phtml:133
 msgid "Century"
-msgstr ""
+msgstr "세기"
 
 #. I18N: Type of media object
 #: app/GedcomTag.php:2369
 msgid "Certificate"
-msgstr ""
+msgstr "증명서"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:478
 msgid "Chad"
-msgstr ""
+msgstr "Chad"
 
 #: app/Http/Controllers/EditFamilyController.php:254
 #: resources/views/family-page-menu.phtml:20
 msgid "Change family members"
-msgstr ""
+msgstr "가족 구성원 변경"
 
 #: app/Http/RequestHandlers/TreePageEdit.php:70
 msgid "Change the “Home page” blocks"
-msgstr ""
+msgstr ""홈페이지"블록 변경"
 
 #: app/Http/RequestHandlers/UserPageEdit.php:70
 msgid "Change the “My page” blocks"
-msgstr ""
+msgstr ""마이페이지"블록 변경"
 
 #. I18N: [a record was] Changed on <date/time>
 #: resources/views/modules/recent_changes/changes-list.phtml:47
 #, php-format
 msgid "Changed on %1$s"
-msgstr ""
+msgstr "%1$s에 변경됨"
 
 #. I18N: [a record was] Changed on <date/time> by <user>
 #: resources/views/modules/recent_changes/changes-list.phtml:45
 #, php-format
 msgid "Changed on %1$s by %2$s"
-msgstr ""
+msgstr "%1$s에서 %2$s 변경"
 
 #. I18N: Name of a module/report
 #: app/Module/ChangeReportModule.php:44
@@ -3428,39 +3428,39 @@ msgstr ""
 #: resources/xml/reports/change_report.xml:3
 #: resources/xml/reports/change_report.xml:44
 msgid "Changes"
-msgstr ""
+msgstr "변경"
 
 #: app/Module/RecentChangesModule.php:146
 #, php-format
 msgid "Changes in the last %s day"
 msgid_plural "Changes in the last %s days"
-msgstr[0] ""
+msgstr[0] "지난 %s 일의 변경 사항"
 
 #: app/Http/RequestHandlers/PendingChangesLogPage.php:101
 #: resources/views/admin/trees.phtml:190
 msgid "Changes log"
-msgstr ""
+msgstr "변경 로그"
 
 #. I18N: gedcom tag CHAR
 #: app/GedcomTag.php:586
 msgid "Character set"
-msgstr ""
+msgstr "Character set"
 
 #: resources/views/admin/modules.phtml:197
 #: resources/views/admin/modules.phtml:200
 msgid "Chart"
-msgstr ""
+msgstr "차트"
 
 #: app/Module/RelationshipsChartModule.php:409
 msgid "Chart preferences"
-msgstr ""
+msgstr "차트 환경설정"
 
 #: resources/views/modules/charts/config.phtml:9
 #: resources/views/modules/statistics-chart/custom.phtml:18
 #: resources/views/modules/statistics-chart/custom.phtml:147
 #: resources/views/modules/statistics-chart/custom.phtml:149
 msgid "Chart type"
-msgstr ""
+msgstr "차트 타입"
 
 #. I18N: Name of a module/block
 #. I18N: Name of a module
@@ -3472,29 +3472,29 @@ msgstr ""
 #: resources/views/admin/modules.phtml:85
 #: resources/views/admin/trees-preferences.phtml:392
 msgid "Charts"
-msgstr ""
+msgstr "차트"
 
 #: app/Http/Controllers/AdminTreesController.php:313
 #: resources/views/admin/trees.phtml:164
 msgid "Check for errors"
-msgstr ""
+msgstr "Check for errors"
 
 #: app/Http/Controllers/Admin/UpgradeController.php:216
 msgid "Check for pending changes…"
-msgstr ""
+msgstr "보류중인 변경 사항 확인…"
 
 #: resources/views/setup/step-2-server-checks.phtml:39
 msgid "Checking server capacity"
-msgstr ""
+msgstr "서버 용량 확인"
 
 #: resources/views/setup/step-2-server-checks.phtml:22
 msgid "Checking server configuration"
-msgstr ""
+msgstr "서버 환경설정 확인"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:300
 msgid "Chicago, Illinois, United States"
-msgstr ""
+msgstr "Chicago, Illinois, United States"
 
 #. I18N: gedcom tag CHIL
 #: app/Functions/FunctionsDate.php:41 app/GedcomTag.php:589
@@ -3502,18 +3502,18 @@ msgstr ""
 #: resources/views/edit/change-family-members.phtml:64
 #: resources/views/modules/pedigree-chart/previous.phtml:40
 msgid "Child"
-msgstr ""
+msgstr "아이"
 
 #: resources/xml/reports/ahnentafel_report.xml:389
 #: resources/xml/reports/descendancy_report.xml:480
 msgid "Child of "
-msgstr ""
+msgstr "의 아이"
 
 #. I18N: e.g. “Child of [father name & mother name]”
 #: app/Module/InteractiveTree/TreeView.php:365
 #, php-format
 msgid "Child of %s"
-msgstr ""
+msgstr "%s 의 아이"
 
 #: app/Module/StatisticsChartModule.php:433
 #: app/Module/StatisticsChartModule.php:727
@@ -3524,31 +3524,31 @@ msgstr ""
 #: resources/xml/reports/family_group_report.xml:761
 #: resources/xml/reports/relative_ext_report.xml:115
 msgid "Children"
-msgstr ""
+msgstr "자녀"
 
 #: resources/views/statistics/families/children.phtml:12
 msgid "Children in family"
-msgstr ""
+msgstr "가족의 자녀"
 
 #: resources/xml/reports/ahnentafel_report.xml:392
 #: resources/xml/reports/descendancy_report.xml:483
 msgid "Children of "
-msgstr ""
+msgstr "~의 자녀
 
 #. I18N: In the Icelandic surname tradition, ...
 #: app/SurnameTradition.php:99
 msgid "Children take a patronym instead of a surname."
-msgstr ""
+msgstr "자녀들은 성을 대신하여 약어를 사용합니다."
 
 #. I18N: In the Spanish surname tradition, ...
 #: app/SurnameTradition.php:93
 msgid "Children take one surname from the father and one surname from the mother."
-msgstr ""
+msgstr "자녀들은 아버지에게서 성 하나를, 어머니에게서 성 하나를 가져옵니다."
 
 #. I18N: In the Portuguese surname tradition, ...
 #: app/SurnameTradition.php:96
 msgid "Children take one surname from the mother and one surname from the father."
-msgstr ""
+msgstr "자녀들은 어머니에게서 성 하나를, 아버지에게서 성 하나를 가져옵니다."
 
 #. I18N: In the paternal surname tradition, ...
 #. I18N: In the patrilineal surname tradition, ...
@@ -3557,36 +3557,36 @@ msgstr ""
 #: app/SurnameTradition.php:79 app/SurnameTradition.php:86
 #: app/SurnameTradition.php:102 app/SurnameTradition.php:109
 msgid "Children take their father’s surname."
-msgstr ""
+msgstr "자녀들은 아버지의 성을 가져옵니다."
 
 #. I18N: In the matrilineal surname tradition, ...
 #: app/SurnameTradition.php:90
 msgid "Children take their mother’s surname."
-msgstr ""
+msgstr "자녀들은 어머니의 성을 가져옵니다."
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:124
 msgid "Chile"
-msgstr ""
+msgstr "Chile"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:126
 msgid "China"
-msgstr ""
+msgstr "China"
 
 #: app/Http/RequestHandlers/ReportListPage.php:74
 msgid "Choose a report to run"
-msgstr ""
+msgstr "실행할 보고서를 선택하십시오."
 
 #: resources/xml/reports/individual_ext_report.xml:6
 #: resources/xml/reports/missing_facts_report.xml:6
 #: resources/xml/reports/relative_ext_report.xml:6
 msgid "Choose relatives"
-msgstr ""
+msgstr "친척 선택"
 
 #: app/Http/Controllers/AdminSiteController.php:140
 msgid "Choose user defined welcome text typed below"
-msgstr ""
+msgstr "아래에 입력 된 사용자 정의 시작 텍스트를 선택하십시오."
 
 #. I18N: gedcom tag CHR
 #: app/GedcomTag.php:592 resources/xml/reports/family_group_report.xml:206
@@ -3594,63 +3594,63 @@ msgstr ""
 #: resources/xml/reports/family_group_report.xml:904
 #: resources/xml/reports/missing_facts_report.xml:16
 msgid "Christening"
-msgstr ""
+msgstr "세례"
 
 #: app/GedcomTag.php:1520
 msgid "Christening of a brother"
-msgstr ""
+msgstr "남자형제의 세례"
 
 #: app/GedcomTag.php:1472
 msgid "Christening of a child"
-msgstr ""
+msgstr "아이의 세례"
 
 #: app/GedcomTag.php:1469
 msgid "Christening of a daughter"
-msgstr ""
+msgstr "딸의 세례"
 
 #: app/GedcomTag.php:1483 app/GedcomTag.php:1494 app/GedcomTag.php:1505
 msgid "Christening of a grandchild"
-msgstr ""
+msgstr "손주의 세례"
 
 #: app/GedcomTag.php:1480
 msgid "Christening of a granddaughter"
-msgstr ""
+msgstr "손녀의 세례"
 
 #: app/GedcomTag.php:1491
 msgctxt "daughter’s daughter"
 msgid "Christening of a granddaughter"
-msgstr ""
+msgstr "손녀의 세례"
 
 #: app/GedcomTag.php:1502
 msgctxt "son’s daughter"
 msgid "Christening of a granddaughter"
-msgstr ""
+msgstr "손녀의 세례"
 
 #: app/GedcomTag.php:1476
 msgid "Christening of a grandson"
-msgstr ""
+msgstr "손자의 세례"
 
 #: app/GedcomTag.php:1487
 msgctxt "daughter’s son"
 msgid "Christening of a grandson"
-msgstr ""
+msgstr "손자의 세례"
 
 #: app/GedcomTag.php:1498
 msgctxt "son’s son"
 msgid "Christening of a grandson"
-msgstr ""
+msgstr "손자의 세례"
 
 #: app/GedcomTag.php:1509
 msgid "Christening of a half-brother"
-msgstr ""
+msgstr "half-brother의 세례"
 
 #: app/GedcomTag.php:1516
 msgid "Christening of a half-sibling"
-msgstr ""
+msgstr "Christening of a half-sibling"
 
 #: app/GedcomTag.php:1513
 msgid "Christening of a half-sister"
-msgstr ""
+msgstr "Christening of a half-sister"
 
 #: app/GedcomTag.php:1527
 msgid "Christening of a sibling"
@@ -3658,24 +3658,24 @@ msgstr ""
 
 #: app/GedcomTag.php:1524
 msgid "Christening of a sister"
-msgstr ""
+msgstr "Christening of a sister"
 
 #: app/GedcomTag.php:1465
 msgid "Christening of a son"
-msgstr ""
+msgstr "아들의 세례"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:149
 msgid "Christmas Island"
-msgstr ""
+msgstr "Christmas Island"
 
 #: app/GedcomCode/GedcomCodeRela.php:130
 msgid "Circumciser"
-msgstr ""
+msgstr "할례"
 
 #: resources/views/modules/census-assistant.phtml:32
 msgid "Citation"
-msgstr ""
+msgstr "인증"
 
 #. I18N: gedcom tag PAGE
 #: app/GedcomTag.php:919 resources/xml/reports/fact_sources.xml:74
@@ -3683,126 +3683,126 @@ msgstr ""
 #: resources/xml/reports/fact_sources.xml:277
 #: resources/xml/reports/fact_sources.xml:323
 msgid "Citation details"
-msgstr ""
+msgstr "인용 세부 사항"
 
 #. I18N: gedcom tag CITN
 #: app/GedcomTag.php:602
 msgid "Citizenship"
-msgstr ""
+msgstr "시민권"
 
 #. I18N: gedcom tag CITY
 #: app/GedcomTag.php:605
 msgid "City"
-msgstr ""
+msgstr "도시"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:303
 msgid "Ciudad Juarez, Mexico"
-msgstr ""
+msgstr "Ciudad Juarez, Mexico"
 
 #: app/GedcomTag.php:844 resources/xml/reports/fact_sources.xml:202
 msgid "Civil marriage"
-msgstr ""
+msgstr "시민 결혼"
 
 #: app/GedcomCode/GedcomCodeRela.php:141
 msgid "Civil registrar"
-msgstr ""
+msgstr "시민 등록"
 
 #: app/GedcomCode/GedcomCodeRela.php:138
 msgctxt "FEMALE"
 msgid "Civil registrar"
-msgstr ""
+msgstr "시민 등록"
 
 #: app/GedcomCode/GedcomCodeRela.php:134
 msgctxt "MALE"
 msgid "Civil registrar"
-msgstr ""
+msgstr "시민 등록"
 
 #: app/Http/RequestHandlers/CleanDataFolder.php:95
 #: resources/views/admin/control-panel.phtml:111
 msgid "Clean up data folder"
-msgstr ""
+msgstr "데이터 폴더 정리"
 
 #. I18N: LDS sealing status; see http://en.wikipedia.org/wiki/Sealing_(Latter_Day_Saints)
 #: app/GedcomCode/GedcomCodeStat.php:115
 msgid "Cleared but not yet completed"
-msgstr ""
+msgstr "지워지지만 아직 완료되지 않음"
 
 #. I18N: Name of a module
 #: app/Module/ClippingsCartModule.php:119
 msgid "Clippings cart"
-msgstr ""
+msgstr "Clippings cart"
 
 #. I18N: Type of media object
 #: app/GedcomTag.php:2372
 msgid "Coat of arms"
-msgstr ""
+msgstr "Coat of arms"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:306
 msgid "Cochabamba, Bolivia"
-msgstr ""
+msgstr "Cochabamba, Bolivia"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:120
 msgid "Cocos (Keeling) Islands"
-msgstr ""
+msgstr "Cocos (Keeling) Islands"
 
 #. I18N: The name of a colour-scheme
 #: app/Module/ColorsTheme.php:163
 msgid "Coffee and Cream"
-msgstr ""
+msgstr "Coffee and Cream"
 
 #. I18N: The name of a colour-scheme
 #: app/Module/ColorsTheme.php:165
 msgid "Cold Day"
-msgstr ""
+msgstr "Cold Day"
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:138
 msgid "Colombia"
-msgstr ""
+msgstr "Colombia"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:309
 msgid "Colonia Juarez, Mexico"
-msgstr ""
+msgstr "Colonia Juarez, Mexico"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:324
 msgid "Columbia River, Washington, United States"
-msgstr ""
+msgstr "Columbia River, Washington, United States"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:312
 msgid "Columbia, South Carolina, United States"
-msgstr ""
+msgstr "Columbia, South Carolina, United States"
 
 #. I18N: Location of an LDS church temple
 #: app/GedcomCode/GedcomCodeTemp.php:315
 msgid "Columbus, Ohio, United States"
-msgstr ""
+msgstr "Columbus, Ohio, United States"
 
 #. I18N: gedcom tag COMM
 #: app/GedcomTag.php:608
 msgid "Comment"
-msgstr ""
+msgstr "코멘트"
 
 #: resources/views/emails/register-notify-html.phtml:23
 #: resources/views/emails/register-notify-text.phtml:14
 #: resources/views/register-page.phtml:83
 msgid "Comments"
-msgstr ""
+msgstr "코멘트"
 
 #. I18N: gedcom tag _COML
 #: app/GedcomTag.php:1531
 msgid "Common law marriage"
-msgstr ""
+msgstr "관습법 결혼"
 
 #. I18N: Description of the “Messages” module
 #: app/Module/UserMessagesModule.php:85
 msgid "Communicate directly with other users, using private messages."
-msgstr ""
+msgstr "개인 메시지를 사용하여 다른 사용자와 직접 대화하십시오."
 
 #. I18N: Name of a country or state
 #: app/Statistics/Service/CountryService.php:140
