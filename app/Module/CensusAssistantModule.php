@@ -20,15 +20,20 @@ declare(strict_types=1);
 namespace Fisharebest\Webtrees\Module;
 
 use Fisharebest\Webtrees\Census\CensusInterface;
-use Fisharebest\Webtrees\Exceptions\HttpNotFoundException;
 use Fisharebest\Webtrees\I18N;
 use Fisharebest\Webtrees\Individual;
 use Fisharebest\Webtrees\Tree;
 use Psr\Http\Message\ResponseInterface;
 use Psr\Http\Message\ServerRequestInterface;
 
+use function array_keys;
 use function assert;
+use function count;
+use function e;
 use function response;
+use function str_repeat;
+use function str_replace;
+use function view;
 
 /**
  * Class CensusAssistantModule
@@ -88,6 +93,12 @@ class CensusAssistantModule extends AbstractModule
         $head         = Individual::getInstance($params['head'], $tree);
         $census_class = $params['census'];
         $census       = new $census_class();
+
+        // No head of household?  Create a dummy one.
+        $head = $head ?? new Individual('X', '0 @X@ INDI', null, $tree);
+
+        // Generate columns (e.g. relationship name) using the correct language.
+        I18N::init($census->censusLanguage());
 
         if ($individual instanceof Individual && $head instanceof Individual) {
             $html = $this->censusTableRow($census, $individual, $head);
@@ -163,34 +174,19 @@ class CensusAssistantModule extends AbstractModule
      */
     private function createNoteText(CensusInterface $census, $ca_title, $ca_place, $ca_citation, $ca_individuals, $ca_notes): string
     {
-        $text = $ca_title . "\n" . $ca_citation . "\n" . $ca_place . "\n\n";
+        $text = $ca_title . "\n" . $ca_citation . "\n" . $ca_place . "\n\n|";
 
-        foreach ($census->columns() as $n => $column) {
-            if ($n === 0) {
-                $text .= "\n";
-            } else {
-                $text .= ' | ';
-            }
-            $text .= $column->abbreviation();
+        foreach ($census->columns() as $column) {
+            $text .= ' ' . $column->abbreviation() . ' |';
         }
 
-        foreach ($census->columns() as $n => $column) {
-            if ($n === 0) {
-                $text .= "\n";
-            } else {
-                $text .= ' | ';
-            }
-            $text .= '-----';
-        }
+        $text .= "\n|" . str_repeat(' ----- |', count($census->columns()));
 
         foreach (array_keys($ca_individuals['xref'] ?? []) as $key) {
+            $text .= "\n|";
+
             foreach ($census->columns() as $n => $column) {
-                if ($n === 0) {
-                    $text .= "\n";
-                } else {
-                    $text .= ' | ';
-                }
-                $text .= $ca_individuals[$n][$key];
+                $text .= ' ' . $ca_individuals[$n][$key] . ' |';
             }
         }
 
